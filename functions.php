@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 <?php
 /**
  * Varia functions and definitions
@@ -545,7 +543,6 @@ require get_template_directory() . '/inc/template-tags.php';
 if ( class_exists( 'WooCommerce' ) ) {
 	require get_template_directory() . '/inc/woocommerce.php';
 }
->>>>>>> 5f2e262 (varia theme)
 
 
 // updater for WordPress.com themes
